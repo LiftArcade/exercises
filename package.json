@@ -1,0 +1,25 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "A collection of Exercises used by LiftArcade, Inc",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiftArcade/exercises.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LiftArcade/exercises/issues"
+  },
+  "homepage": "https://github.com/LiftArcade/exercises#readme",
+  "dependencies": {
+    "@types/lodash": "^4.14.182",
+    "lodash": "^4.17.21",
+    "ts-jest": "^28.0.4",
+    "ts-node": "^10.8.1"
+  }
+}

@@ -5,12 +5,12 @@ A collection of exercises, used in our applicaitons. Free for use, in accordance
 Feel free to create a pull request and update the exerises.
 
 - [LiftArcade, Inc - Exercises](#liftarcade-inc---exercises)
-  - [Structure](#structure)
+  - [About](#about)
   - [Got suggestions?](#got-suggestions)
 
-## Structure
+## About
 
-The main information regarding the strucutre
+Used in the backend of our workout-tracking application. [Check it out here](https://getlifts.com)
 
 ## Got suggestions?
 
