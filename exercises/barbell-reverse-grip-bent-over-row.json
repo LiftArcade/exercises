@@ -1,0 +1,14 @@
+{
+  "id": "9",
+  "name": "Barbell Reverse Grip Bent Over Row",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "slug": "barbell-reverse-grip-bent-over-row",
+  "active": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "8",
+  "name": "Incline Bench Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "d8ae15e2-9f8a-49a6-a6ca-7853fd4e7259",
+  "slug": "incline-bench-press",
+  "active": false
+}

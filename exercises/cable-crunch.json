@@ -1,0 +1,15 @@
+{
+  "id": "79",
+  "name": "Cable Crunch",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Core",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "a290d52a-e4a2-4602-9c9a-a5031dcc09d4",
+  "slug": "cable-crunch",
+  "active": false
+}

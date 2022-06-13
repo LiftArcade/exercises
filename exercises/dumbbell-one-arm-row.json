@@ -1,0 +1,14 @@
+{
+  "id": "90",
+  "name": "Dumbbell One Arm Row",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-one-arm-row",
+  "active": false
+}

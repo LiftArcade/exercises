@@ -1,0 +1,15 @@
+{
+  "id": "242",
+  "name": "Dumbbell Tate Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "exerciseTable": "242",
+  "slug": "dumbbell-tate-press",
+  "active": false
+}

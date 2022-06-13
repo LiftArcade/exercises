@@ -1,0 +1,14 @@
+{
+  "id": "129",
+  "name": "Lying Machine Squat",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Intermediate",
+  "slug": "lying-machine-squat",
+  "active": false
+}

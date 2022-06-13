@@ -1,0 +1,14 @@
+{
+  "id": "171",
+  "name": "Dumbbell One Arm Bench Fly",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-one-arm-bench-fly",
+  "active": false
+}

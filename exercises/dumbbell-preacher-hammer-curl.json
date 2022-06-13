@@ -1,0 +1,14 @@
+{
+  "id": "270",
+  "name": "Dumbbell Preacher Hammer Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-preacher-hammer-curl",
+  "active": false
+}

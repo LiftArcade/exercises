@@ -1,0 +1,14 @@
+{
+  "id": "244",
+  "name": "Barbell Standing Overhead Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "slug": "barbell-standing-overhead-triceps-extension",
+  "active": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "43",
+  "name": "Dumbbell Upright Row",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "exerciseTable": "63e1efbd-2724-4a1e-ac3f-4c3eabb19a77",
+  "slug": "dumbbell-upright-row",
+  "active": false
+}

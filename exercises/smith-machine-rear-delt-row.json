@@ -1,0 +1,14 @@
+{
+  "id": "49",
+  "name": "Smith Machine Rear Delt Row",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "smith-machine-rear-delt-row",
+  "active": false
+}

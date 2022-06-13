@@ -1,0 +1,14 @@
+{
+  "id": "145",
+  "name": "Standing Calf Raises",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Legs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "standing-calf-raises",
+  "active": false
+}

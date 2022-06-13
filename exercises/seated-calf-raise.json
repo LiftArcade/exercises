@@ -1,0 +1,15 @@
+{
+  "id": "144",
+  "name": "Seated Calf Raise",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Legs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "9e83c262-51f3-43fd-8c86-162083e7a229",
+  "slug": "seated-calf-raise",
+  "active": false
+}

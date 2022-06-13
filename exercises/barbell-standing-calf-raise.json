@@ -1,0 +1,14 @@
+{
+  "id": "143",
+  "name": "Barbell Standing Calf Raise",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Legs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "slug": "barbell-standing-calf-raise",
+  "active": false
+}

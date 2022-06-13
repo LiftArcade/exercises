@@ -1,0 +1,14 @@
+{
+  "id": "150",
+  "name": "Cable Kneeling Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Intermediate",
+  "slug": "cable-kneeling-triceps-extension",
+  "active": false
+}

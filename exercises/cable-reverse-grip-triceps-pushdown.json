@@ -1,0 +1,14 @@
+{
+  "id": "157",
+  "name": "Cable Reverse Grip Triceps Pushdown",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "cable-reverse-grip-triceps-pushdown",
+  "active": false
+}

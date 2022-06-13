@@ -1,0 +1,14 @@
+{
+  "id": "94",
+  "name": "Superman",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Stretching",
+  "equipment": "Body",
+  "difficulty": "Beginner",
+  "slug": "superman",
+  "active": false
+}

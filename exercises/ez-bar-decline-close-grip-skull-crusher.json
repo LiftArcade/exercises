@@ -1,0 +1,14 @@
+{
+  "id": "223",
+  "name": "EZ Bar Decline Close Grip Skull Crusher",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "EZ Curl Bar",
+  "difficulty": "Intermediate",
+  "slug": "ez-bar-decline-close-grip-skull-crusher",
+  "active": false
+}

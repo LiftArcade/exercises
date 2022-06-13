@@ -1,0 +1,14 @@
+{
+  "id": "178",
+  "name": "Machine Incline Chest Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "machine-incline-chest-press",
+  "active": false
+}

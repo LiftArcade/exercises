@@ -1,0 +1,14 @@
+{
+  "id": "207",
+  "name": "Barbell One Arm Snatch",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "slug": "barbell-one-arm-snatch",
+  "active": false
+}

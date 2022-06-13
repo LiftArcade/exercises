@@ -1,0 +1,16 @@
+{
+  "id": "29",
+  "name": "Dumbbell Front Raise",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-front-raise",
+  "active": false
+}  "slug": "dumbbell-front-raise",
+  "active": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "116",
+  "name": "Dumbbell Alternate Bicep Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-alternate-bicep-curl",
+  "active": false
+}

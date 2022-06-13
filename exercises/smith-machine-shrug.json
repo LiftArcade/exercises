@@ -1,0 +1,14 @@
+{
+  "id": "50",
+  "name": "Smith Machine Shrug",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "smith-machine-shrug",
+  "active": false
+}

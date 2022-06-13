@@ -1,0 +1,14 @@
+{
+  "id": "142",
+  "name": "Dumbbell Standing Calf Raise",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Legs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-standing-calf-raise",
+  "active": false
+}

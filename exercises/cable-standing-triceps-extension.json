@@ -1,0 +1,14 @@
+{
+  "id": "224",
+  "name": "Cable Standing Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "cable-standing-triceps-extension",
+  "active": false
+}

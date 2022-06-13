@@ -1,0 +1,14 @@
+{
+  "id": "177",
+  "name": "Barbell Wide Grip Decline Bench Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "slug": "barbell-wide-grip-decline-bench-press",
+  "active": false
+}

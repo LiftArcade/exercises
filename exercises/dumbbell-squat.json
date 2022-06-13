@@ -1,0 +1,15 @@
+{
+  "id": "131",
+  "name": "Dumbbell Squat",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "131",
+  "slug": "dumbbell-squat",
+  "active": false
+}

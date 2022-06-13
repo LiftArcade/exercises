@@ -1,0 +1,14 @@
+{
+  "id": "187",
+  "name": "Cable V Bar Pull Down",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "cable-v-bar-pull-down",
+  "active": false
+}

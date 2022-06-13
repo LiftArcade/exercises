@@ -1,0 +1,15 @@
+{
+  "id": "164",
+  "name": "Barbell Neck Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "exerciseTable": "164",
+  "slug": "barbell-neck-press",
+  "active": false
+}

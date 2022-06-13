@@ -1,0 +1,15 @@
+{
+  "id": "41",
+  "name": "Dumbbell Fly",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "c6a34c46-f885-419b-98b2-0fc11430e2f3",
+  "slug": "dumbbell-fly",
+  "active": false
+}

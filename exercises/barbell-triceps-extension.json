@@ -1,0 +1,15 @@
+{
+  "id": "151",
+  "name": "Barbell Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "exerciseTable": "151",
+  "slug": "barbell-triceps-extension",
+  "active": false
+}

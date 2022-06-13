@@ -1,0 +1,14 @@
+{
+  "id": "213",
+  "name": "Dumbbell Pile Squat",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-pile-squat",
+  "active": false
+}

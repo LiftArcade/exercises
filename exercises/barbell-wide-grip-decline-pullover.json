@@ -1,0 +1,14 @@
+{
+  "id": "168",
+  "name": "Barbell Wide Grip Decline Pullover",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "barbell-wide-grip-decline-pullover",
+  "active": false
+}

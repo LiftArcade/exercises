@@ -1,0 +1,14 @@
+{
+  "id": "140",
+  "name": "Calf Press On Leg Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Legs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "calf-press-on-leg-press",
+  "active": false
+}

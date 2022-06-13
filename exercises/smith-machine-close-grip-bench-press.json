@@ -1,0 +1,14 @@
+{
+  "id": "248",
+  "name": "Smith Machine Close Grip Bench Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "smith-machine-close-grip-bench-press",
+  "active": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "88",
+  "name": "Dumbbell Bent Over Row",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-bent-over-row",
+  "active": false
+}

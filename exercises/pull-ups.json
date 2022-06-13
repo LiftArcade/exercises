@@ -1,0 +1,15 @@
+{
+  "id": "83",
+  "name": "Pull Ups",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Pullup Bar",
+  "difficulty": "Intermediate",
+  "exerciseTable": "749e50d6-70bb-4a5f-a73a-38c2e680b4d4",
+  "slug": "pull-ups",
+  "active": false
+}

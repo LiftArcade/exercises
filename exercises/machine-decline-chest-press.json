@@ -1,0 +1,14 @@
+{
+  "id": "179",
+  "name": "Machine Decline Chest Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "machine-decline-chest-press",
+  "active": false
+}

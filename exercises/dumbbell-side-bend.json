@@ -1,0 +1,15 @@
+{
+  "id": "80",
+  "name": "Dumbbell Side Bend",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Core",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "80",
+  "slug": "dumbbell-side-bend",
+  "active": false
+}

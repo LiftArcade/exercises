@@ -1,0 +1,14 @@
+{
+  "id": "70",
+  "name": "Cross Body Crunch",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Core",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Body",
+  "difficulty": "Beginner",
+  "slug": "cross-body-crunch",
+  "active": false
+}

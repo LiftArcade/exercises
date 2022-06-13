@@ -1,0 +1,19 @@
+{
+  "id": "12",
+  "name": "Barbell Squat",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [
+    "Glutes",
+    "Legs",
+    "Back"
+  ],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "6e668b02-fff1-4768-a2b0-78de4167c45d",
+  "slug": "barbell-squat",
+  "active": false
+}

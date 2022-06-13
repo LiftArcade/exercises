@@ -1,0 +1,14 @@
+{
+  "id": "158",
+  "name": "Dumbbell Seated Triceps Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-seated-triceps-press",
+  "active": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "77",
+  "name": "Crunches",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Core",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Body",
+  "difficulty": "Beginner",
+  "exerciseTable": "1a8df780-a2e3-4c21-b106-f987cdc37452",
+  "slug": "crunches",
+  "active": false
+}

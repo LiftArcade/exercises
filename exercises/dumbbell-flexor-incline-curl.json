@@ -1,0 +1,14 @@
+{
+  "id": "264",
+  "name": "Dumbbell Flexor Incline Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-flexor-incline-curl",
+  "active": false
+}

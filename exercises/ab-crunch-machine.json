@@ -1,0 +1,15 @@
+{
+  "id": "56",
+  "name": "Ab Crunch Machine",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Core",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "56",
+  "slug": "ab-crunch-machine",
+  "active": false
+}

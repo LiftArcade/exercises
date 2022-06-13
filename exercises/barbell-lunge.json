@@ -1,0 +1,15 @@
+{
+  "id": "128",
+  "name": "Barbell Lunge",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "exerciseTable": "5483e7de-3d93-4f8d-bdd6-07e871a5dec",
+  "slug": "barbell-lunge",
+  "active": false
+}

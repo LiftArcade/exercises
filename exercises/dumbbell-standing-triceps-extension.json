@@ -1,0 +1,14 @@
+{
+  "id": "247",
+  "name": "Dumbbell Standing Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-standing-triceps-extension",
+  "active": false
+}

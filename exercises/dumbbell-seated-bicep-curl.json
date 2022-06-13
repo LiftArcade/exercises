@@ -1,0 +1,14 @@
+{
+  "id": "267",
+  "name": "Dumbbell Seated Bicep Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-seated-bicep-curl",
+  "active": false
+}

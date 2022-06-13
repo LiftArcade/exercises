@@ -1,0 +1,15 @@
+{
+  "id": "141",
+  "name": "Calf Raise On A Dumbbell",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Legs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "exerciseTable": "141",
+  "slug": "calf-raise-on-a-dumbbell",
+  "active": false
+}

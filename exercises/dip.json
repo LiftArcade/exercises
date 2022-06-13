@@ -1,0 +1,15 @@
+{
+  "id": "24",
+  "name": "Dip",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "24",
+  "slug": "dip",
+  "active": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "249",
+  "name": "Barbell Seated Overhead Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "barbell-seated-overhead-triceps-extension",
+  "active": false
+}

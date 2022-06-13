@@ -1,0 +1,15 @@
+{
+  "id": "46",
+  "name": "Machine Shoulder Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "46",
+  "slug": "machine-shoulder-press",
+  "active": false
+}

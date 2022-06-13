@@ -1,0 +1,14 @@
+{
+  "id": "227",
+  "name": "Cable Incline Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Intermediate",
+  "slug": "cable-incline-triceps-extension",
+  "active": false
+}

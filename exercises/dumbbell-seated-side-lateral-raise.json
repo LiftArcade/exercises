@@ -1,0 +1,14 @@
+{
+  "id": "146",
+  "name": "Dumbbell Seated Side Lateral Raise",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-seated-side-lateral-raise",
+  "active": false
+}

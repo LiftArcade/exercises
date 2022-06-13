@@ -1,0 +1,14 @@
+{
+  "id": "184",
+  "name": "Cable Underhand Pull Down",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "cable-underhand-pull-down",
+  "active": false
+}

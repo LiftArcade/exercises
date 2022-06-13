@@ -1,0 +1,15 @@
+{
+  "id": "112",
+  "name": "Barbell Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "6fe128ff-1ec1-495b-8004-adea3f9f3236",
+  "slug": "barbell-curl",
+  "active": false
+}

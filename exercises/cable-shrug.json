@@ -1,0 +1,14 @@
+{
+  "id": "22",
+  "name": "Cable Shrug",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "cable-shrug",
+  "active": false
+}

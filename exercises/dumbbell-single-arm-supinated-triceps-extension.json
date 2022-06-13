@@ -1,0 +1,14 @@
+{
+  "id": "239",
+  "name": "Dumbbell Single Arm Supinated Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-single-arm-supinated-triceps-extension",
+  "active": false
+}

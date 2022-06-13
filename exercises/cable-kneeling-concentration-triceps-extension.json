@@ -1,0 +1,14 @@
+{
+  "id": "233",
+  "name": "Cable Kneeling Concentration Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Intermediate",
+  "slug": "cable-kneeling-concentration-triceps-extension",
+  "active": false
+}

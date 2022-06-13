@@ -1,0 +1,15 @@
+{
+  "id": "82",
+  "name": "Chin Up",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Pullup Bar",
+  "difficulty": "Intermediate",
+  "exerciseTable": "82",
+  "slug": "chin-up",
+  "active": false
+}

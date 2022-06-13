@@ -1,0 +1,13 @@
+{
+  "id": "156",
+  "name": "Weighted Bench Dip",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "difficulty": "Intermediate",
+  "slug": "weighted-bench-dip",
+  "active": false
+}

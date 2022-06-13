@@ -1,0 +1,14 @@
+{
+  "id": "110",
+  "name": "Barbell Reverse Preacher Curls",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Forearms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "slug": "barbell-reverse-preacher-curls",
+  "active": false
+}

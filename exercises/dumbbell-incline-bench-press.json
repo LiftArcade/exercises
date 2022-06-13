@@ -1,0 +1,15 @@
+{
+  "id": "31",
+  "name": "Dumbbell Incline Bench Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "31",
+  "slug": "dumbbell-incline-bench-press",
+  "active": false
+}

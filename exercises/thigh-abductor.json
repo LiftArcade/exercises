@@ -1,0 +1,14 @@
+{
+  "id": "216",
+  "name": "Thigh Abductor",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "thigh-abductor",
+  "active": false
+}

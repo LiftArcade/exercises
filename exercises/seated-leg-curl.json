@@ -1,0 +1,15 @@
+{
+  "id": "161",
+  "name": "Seated Leg Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "dd7ef43b-63c9-4ec5-a59f-15ab5665781d",
+  "slug": "seated-leg-curl",
+  "active": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "11",
+  "name": "Barbell Shrug",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "e87abc16-bca6-4ff2-b059-6eb26bb979b0",
+  "slug": "barbell-shrug",
+  "active": false
+}

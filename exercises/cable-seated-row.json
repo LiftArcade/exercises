@@ -1,0 +1,15 @@
+{
+  "id": "21",
+  "name": "Cable Seated Row",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "b6745803-d8f2-48b4-a972-878a38f2955c",
+  "slug": "cable-seated-row",
+  "active": false
+}

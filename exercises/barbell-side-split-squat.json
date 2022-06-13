@@ -1,0 +1,15 @@
+{
+  "id": "204",
+  "name": "Barbell Side Split Squat",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "204",
+  "slug": "barbell-side-split-squat",
+  "active": false
+}

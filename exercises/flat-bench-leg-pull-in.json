@@ -1,0 +1,13 @@
+{
+  "id": "68",
+  "name": "Flat Bench Leg Pull In",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Core",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "difficulty": "Beginner",
+  "slug": "flat-bench-leg-pull-in",
+  "active": false
+}

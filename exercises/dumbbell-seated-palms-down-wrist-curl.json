@@ -1,0 +1,14 @@
+{
+  "id": "121",
+  "name": "Dumbbell Seated Palms-Down Wrist Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Forearms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-seated-palms-down-wrist-curl",
+  "active": false
+}

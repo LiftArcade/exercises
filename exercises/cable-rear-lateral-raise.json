@@ -1,0 +1,14 @@
+{
+  "id": "20",
+  "name": "Cable Rear Lateral Raise",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "cable-rear-lateral-raise",
+  "active": false
+}

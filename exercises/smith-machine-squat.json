@@ -1,0 +1,15 @@
+{
+  "id": "135",
+  "name": "Smith Machine Squat",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "135",
+  "slug": "smith-machine-squat",
+  "active": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "89",
+  "name": "Barbell Incline Bench Pull",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "slug": "barbell-incline-bench-pull",
+  "active": false
+}

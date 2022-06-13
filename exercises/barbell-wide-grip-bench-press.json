@@ -1,0 +1,15 @@
+{
+  "id": "176",
+  "name": "Barbell Wide Grip Bench Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "34c887b0-0059-4b62-b214-451b3c4bea36",
+  "slug": "barbell-wide-grip-bench-press",
+  "active": false
+}

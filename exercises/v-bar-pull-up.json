@@ -1,0 +1,14 @@
+{
+  "id": "81",
+  "name": "V Bar Pull Up",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Pullup Bar",
+  "difficulty": "Elite",
+  "slug": "v-bar-pull-up",
+  "active": false
+}

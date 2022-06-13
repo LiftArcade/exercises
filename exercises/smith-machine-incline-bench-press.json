@@ -1,0 +1,14 @@
+{
+  "id": "175",
+  "name": "Smith Machine Incline Bench Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "smith-machine-incline-bench-press",
+  "active": false
+}

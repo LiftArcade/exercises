@@ -1,0 +1,14 @@
+{
+  "id": "153",
+  "name": "Barbell Lying Close Grip Triceps Press To Chin",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "barbell-lying-close-grip-triceps-press-to-chin",
+  "active": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "113",
+  "name": "Barbell Preacher Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "81b7a02c-1c68-4b7e-92b2-b676de6d059e",
+  "slug": "barbell-preacher-curl",
+  "active": false
+}

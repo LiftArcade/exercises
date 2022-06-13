@@ -1,0 +1,14 @@
+{
+  "id": "103",
+  "name": "Dumbbell Standing One-Arm Curl Over Incline Bench",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-standing-one-arm-curl-over-incline-bench",
+  "active": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "72",
+  "name": "Cable Seated Crunch",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Core",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "cable-seated-crunch",
+  "active": false
+}

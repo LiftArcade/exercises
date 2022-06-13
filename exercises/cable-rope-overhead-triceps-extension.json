@@ -1,0 +1,15 @@
+{
+  "id": "155",
+  "name": "Cable Rope Overhead Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "155",
+  "slug": "cable-rope-overhead-triceps-extension",
+  "active": false
+}

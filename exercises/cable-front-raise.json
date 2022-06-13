@@ -1,0 +1,14 @@
+{
+  "id": "16",
+  "name": "Cable Front Raise",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "cable-front-raise",
+  "active": false
+}

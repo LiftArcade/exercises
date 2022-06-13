@@ -1,0 +1,15 @@
+{
+  "id": "276",
+  "name": "Dumbbell Zottman Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "exerciseTable": "276",
+  "slug": "dumbbell-zottman-curl",
+  "active": false
+}

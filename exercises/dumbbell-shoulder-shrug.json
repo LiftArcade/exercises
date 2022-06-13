@@ -1,0 +1,15 @@
+{
+  "id": "42",
+  "name": "Dumbbell Shoulder Shrug",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "6dcf7001-558f-427f-b04b-920ed952dc89",
+  "slug": "dumbbell-shoulder-shrug",
+  "active": false
+}

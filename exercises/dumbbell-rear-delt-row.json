@@ -1,0 +1,14 @@
+{
+  "id": "38",
+  "name": "Dumbbell Rear Delt Row",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-rear-delt-row",
+  "active": false
+}

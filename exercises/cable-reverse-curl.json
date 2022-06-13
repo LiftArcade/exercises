@@ -1,0 +1,14 @@
+{
+  "id": "104",
+  "name": "Cable Reverse Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "cable-reverse-curl",
+  "active": false
+}

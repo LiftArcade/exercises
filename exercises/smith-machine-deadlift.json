@@ -1,0 +1,14 @@
+{
+  "id": "189",
+  "name": "Smith Machine Deadlift",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "smith-machine-deadlift",
+  "active": false
+}

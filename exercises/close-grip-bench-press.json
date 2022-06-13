@@ -1,0 +1,15 @@
+{
+  "id": "4",
+  "name": "Close Grip Bench Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "6a0da176-84ec-4278-8935-d34d712ca410",
+  "slug": "close-grip-bench-press",
+  "active": true
+}

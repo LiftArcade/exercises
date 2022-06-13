@@ -1,0 +1,14 @@
+{
+  "id": "162",
+  "name": "Barbell Front Raise and Pullover",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "barbell-front-raise-and-pullover",
+  "active": false
+}

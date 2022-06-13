@@ -1,0 +1,15 @@
+{
+  "id": "165",
+  "name": "Dumbbell Incline Fly",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "db0dbc9e-afe0-4d67-aff8-b9be506e039f",
+  "slug": "dumbbell-incline-fly",
+  "active": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "34",
+  "name": "Dumbbell Lying Rear Lateral Raise",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-lying-rear-lateral-raise",
+  "active": false
+}

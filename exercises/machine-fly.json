@@ -1,0 +1,15 @@
+{
+  "id": "45",
+  "name": "Machine Fly",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "45",
+  "slug": "machine-fly",
+  "active": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "6",
+  "name": "Barbell Front Raise",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "6",
+  "slug": "barbell-front-raise",
+  "active": false
+}

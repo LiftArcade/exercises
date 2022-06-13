@@ -1,0 +1,15 @@
+{
+  "id": "44",
+  "name": "Leg Raise",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Core",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Body",
+  "difficulty": "Beginner",
+  "exerciseTable": "44",
+  "slug": "leg-raise",
+  "active": false
+}

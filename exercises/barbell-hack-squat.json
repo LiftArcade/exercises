@@ -1,0 +1,15 @@
+{
+  "id": "202",
+  "name": "Barbell Hack Squat",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "exerciseTable": "fe6feb43-4f01-4c6c-a15f-504e7d65a82e",
+  "slug": "barbell-hack-squat",
+  "active": false
+}

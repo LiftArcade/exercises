@@ -1,0 +1,14 @@
+{
+  "id": "263",
+  "name": "Cable High Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Intermediate",
+  "slug": "cable-high-curl",
+  "active": false
+}

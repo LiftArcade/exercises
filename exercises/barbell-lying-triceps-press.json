@@ -1,0 +1,14 @@
+{
+  "id": "237",
+  "name": "Barbell Lying Triceps Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "barbell-lying-triceps-press",
+  "active": false
+}

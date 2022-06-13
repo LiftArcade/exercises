@@ -1,0 +1,14 @@
+{
+  "id": "209",
+  "name": "Barbell Jefferson Squat",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "slug": "barbell-jefferson-squat",
+  "active": false
+}

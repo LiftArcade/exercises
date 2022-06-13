@@ -1,0 +1,14 @@
+{
+  "id": "99",
+  "name": "Barbell Close Grip Standing Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "slug": "barbell-close-grip-standing-curl",
+  "active": false
+}

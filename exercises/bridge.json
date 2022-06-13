@@ -1,0 +1,14 @@
+{
+  "id": "194",
+  "name": "Bridge",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Glutes",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Body",
+  "difficulty": "Beginner",
+  "slug": "bridge",
+  "active": false
+}

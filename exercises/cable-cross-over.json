@@ -1,0 +1,15 @@
+{
+  "id": "14",
+  "name": "Cable Cross Over",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "14",
+  "slug": "cable-cross-over",
+  "active": false
+}

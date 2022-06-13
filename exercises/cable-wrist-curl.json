@@ -1,0 +1,14 @@
+{
+  "id": "122",
+  "name": "Cable Wrist Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Forearms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "cable-wrist-curl",
+  "active": false
+}

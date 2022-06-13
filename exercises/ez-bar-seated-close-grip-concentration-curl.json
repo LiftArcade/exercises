@@ -1,0 +1,14 @@
+{
+  "id": "268",
+  "name": "EZ Bar Seated Close Grip Concentration Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "EZ Curl Bar",
+  "difficulty": "Beginner",
+  "slug": "ez-bar-seated-close-grip-concentration-curl",
+  "active": false
+}

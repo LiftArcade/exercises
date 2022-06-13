@@ -1,0 +1,15 @@
+{
+  "id": "274",
+  "name": "Dumbbell Preacher Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "274",
+  "slug": "dumbbell-preacher-curl",
+  "active": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "208",
+  "name": "Barbell One Leg Squat",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "barbell-one-leg-squat",
+  "active": false
+}

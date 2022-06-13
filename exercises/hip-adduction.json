@@ -1,0 +1,15 @@
+{
+  "id": "206",
+  "name": "Hip Adduction",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Glutes",
+  "otherMuscleGroups": [],
+  "type": "Stretching",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "206",
+  "slug": "hip-adduction",
+  "active": false
+}

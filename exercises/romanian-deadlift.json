@@ -1,0 +1,15 @@
+{
+  "id": "199",
+  "name": "Romanian Deadlift",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "65a990ec-4125-4b7d-a6eb-e2a1582defcb",
+  "slug": "romanian-deadlift",
+  "active": false
+}

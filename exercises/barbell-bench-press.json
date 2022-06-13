@@ -1,0 +1,17 @@
+{
+  "id": "2",
+  "name": "Barbell Bench Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [
+    "Arms"
+  ],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "9e1349c1-bb50-411b-8f8e-2f010bd6209a",
+  "slug": "barbell-bench-press",
+  "active": true
+}

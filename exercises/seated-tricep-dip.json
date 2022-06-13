@@ -1,0 +1,14 @@
+{
+  "id": "220",
+  "name": "Seated Tricep Dip",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Intermediate",
+  "slug": "seated-tricep-dip",
+  "active": false
+}

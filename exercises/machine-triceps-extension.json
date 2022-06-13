@@ -1,0 +1,15 @@
+{
+  "id": "253",
+  "name": "Machine Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Intermediate",
+  "exerciseTable": "253",
+  "slug": "machine-triceps-extension",
+  "active": false
+}

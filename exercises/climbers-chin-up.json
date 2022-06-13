@@ -1,0 +1,14 @@
+{
+  "id": "182",
+  "name": "Climbers Chin Up",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Pullup Bar",
+  "difficulty": "Intermediate",
+  "slug": "climbers-chin-up",
+  "active": false
+}

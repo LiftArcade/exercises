@@ -1,0 +1,14 @@
+{
+  "id": "166",
+  "name": "Dumbbell Incline Fly With A Twist",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-incline-fly-with-a-twist",
+  "active": false
+}

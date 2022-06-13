@@ -1,0 +1,14 @@
+{
+  "id": "92",
+  "name": "Hyperextensions - Back Extensions",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Stretching",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "hyperextensions-back-extensions",
+  "active": false
+}

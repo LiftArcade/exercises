@@ -1,0 +1,14 @@
+{
+  "id": "232",
+  "name": "Cable Low Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "cable-low-triceps-extension",
+  "active": false
+}

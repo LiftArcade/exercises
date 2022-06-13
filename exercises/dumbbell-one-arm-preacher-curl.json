@@ -1,0 +1,14 @@
+{
+  "id": "109",
+  "name": "Dumbbell One Arm Preacher Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-one-arm-preacher-curl",
+  "active": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "35",
+  "name": "Dumbbell One Arm Shoulder Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-one-arm-shoulder-press",
+  "active": false
+}

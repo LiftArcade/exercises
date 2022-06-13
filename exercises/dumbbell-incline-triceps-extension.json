@@ -1,0 +1,14 @@
+{
+  "id": "252",
+  "name": "Dumbbell Incline Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-incline-triceps-extension",
+  "active": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "149",
+  "name": "Triceps Pushdown V Bar",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "149",
+  "slug": "triceps-pushdown-v-bar",
+  "active": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "87",
+  "name": "Close Grip Front Lat Pulldown",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "e364d7b6-f837-4e5d-9a5a-a3c2dbed56ed",
+  "slug": "close-grip-front-lat-pulldown",
+  "active": false
+}

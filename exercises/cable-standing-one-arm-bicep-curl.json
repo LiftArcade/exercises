@@ -1,0 +1,14 @@
+{
+  "id": "273",
+  "name": "Cable Standing One Arm Bicep Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "cable-standing-one-arm-bicep-curl",
+  "active": false
+}

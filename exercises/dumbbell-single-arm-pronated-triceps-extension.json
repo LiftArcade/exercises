@@ -1,0 +1,14 @@
+{
+  "id": "238",
+  "name": "Dumbbell Single Arm Pronated Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-single-arm-pronated-triceps-extension",
+  "active": false
+}

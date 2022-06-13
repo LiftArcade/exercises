@@ -1,0 +1,15 @@
+{
+  "id": "108",
+  "name": "Dumbbell Hammer Curls",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "db7d4831-3388-422a-a7e3-713d1b729b0c",
+  "slug": "dumbbell-hammer-curls",
+  "active": false
+}

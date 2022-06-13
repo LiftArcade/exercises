@@ -1,0 +1,14 @@
+{
+  "id": "75",
+  "name": "Side Bridge",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Core",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Body",
+  "difficulty": "Beginner",
+  "slug": "side-bridge",
+  "active": false
+}

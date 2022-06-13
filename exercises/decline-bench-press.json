@@ -1,0 +1,15 @@
+{
+  "id": "5",
+  "name": "Decline Bench Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "326b10df-7f24-4ccc-b21e-1befb98b6d30",
+  "slug": "decline-bench-press",
+  "active": false
+}

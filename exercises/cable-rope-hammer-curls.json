@@ -1,0 +1,14 @@
+{
+  "id": "257",
+  "name": "Cable Rope Hammer Curls",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "cable-rope-hammer-curls",
+  "active": false
+}

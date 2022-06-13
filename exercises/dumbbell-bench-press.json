@@ -1,0 +1,15 @@
+{
+  "id": "26",
+  "name": "Dumbbell Bench Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "a3755808-3077-4666-94d0-4ec77c1275d4",
+  "slug": "dumbbell-bench-press",
+  "active": false
+}

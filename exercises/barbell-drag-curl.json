@@ -1,0 +1,14 @@
+{
+  "id": "254",
+  "name": "Barbell Drag Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "slug": "barbell-drag-curl",
+  "active": false
+}

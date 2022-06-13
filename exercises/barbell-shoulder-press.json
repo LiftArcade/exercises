@@ -1,0 +1,15 @@
+{
+  "id": "10",
+  "name": "Shoulder Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "exerciseTable": "a585af39-0589-4f34-8aa4-52579d00e1f9",
+  "slug": "barbell-shoulder-press",
+  "active": false
+}

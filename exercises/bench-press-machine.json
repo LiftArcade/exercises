@@ -1,0 +1,14 @@
+{
+  "id": "163",
+  "name": "Bench Press Machine",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "bench-press-machine",
+  "active": false
+}

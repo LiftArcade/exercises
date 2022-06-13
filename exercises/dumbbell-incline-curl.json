@@ -1,0 +1,14 @@
+{
+  "id": "106",
+  "name": "Dumbbell Incline Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-incline-curl",
+  "active": false
+}

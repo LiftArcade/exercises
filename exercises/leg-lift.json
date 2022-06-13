@@ -1,0 +1,14 @@
+{
+  "id": "195",
+  "name": "Leg Lift",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Glutes",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Body",
+  "difficulty": "Beginner",
+  "slug": "leg-lift",
+  "active": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "30",
+  "name": "Dumbbell Hammer Grip Incline Bench Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-hammer-grip-incline-bench-press",
+  "active": false
+}

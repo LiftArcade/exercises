@@ -1,0 +1,14 @@
+{
+  "id": "101",
+  "name": "Dumbbell Seated Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-seated-curl",
+  "active": false
+}

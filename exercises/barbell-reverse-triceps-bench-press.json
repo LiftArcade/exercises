@@ -1,0 +1,14 @@
+{
+  "id": "241",
+  "name": "Barbell Reverse Triceps Bench Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "slug": "barbell-reverse-triceps-bench-press",
+  "active": false
+}

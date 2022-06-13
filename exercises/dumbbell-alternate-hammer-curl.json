@@ -1,0 +1,14 @@
+{
+  "id": "114",
+  "name": "Dumbbell Alternate Hammer Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-alternate-hammer-curl",
+  "active": false
+}

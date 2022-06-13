@@ -1,0 +1,15 @@
+{
+  "id": "52",
+  "name": "T Bar Row",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "exerciseTable": "52",
+  "slug": "t-bar-row",
+  "active": false
+}

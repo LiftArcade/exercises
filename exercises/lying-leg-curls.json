@@ -1,0 +1,15 @@
+{
+  "id": "160",
+  "name": "Lying Leg Curls",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "9104174c-da68-4c59-9a82-fd539b7ca5cb",
+  "slug": "lying-leg-curls",
+  "active": false
+}

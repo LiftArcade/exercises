@@ -1,0 +1,14 @@
+{
+  "id": "147",
+  "name": "EZ Bar Incline Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "EZ Curl Bar",
+  "difficulty": "Intermediate",
+  "slug": "ez-bar-incline-triceps-extension",
+  "active": false
+}

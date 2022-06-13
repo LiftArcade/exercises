@@ -1,0 +1,14 @@
+{
+  "id": "275",
+  "name": "Barbell Standing Wide Grip Biceps Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "slug": "barbell-standing-wide-grip-biceps-curl",
+  "active": false
+}

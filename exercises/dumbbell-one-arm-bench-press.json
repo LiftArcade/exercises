@@ -1,0 +1,14 @@
+{
+  "id": "169",
+  "name": "Dumbbell One Arm Bench Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-one-arm-bench-press",
+  "active": false
+}

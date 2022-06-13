@@ -1,0 +1,14 @@
+{
+  "id": "190",
+  "name": "Smith Machine Good Morning",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "smith-machine-good-morning",
+  "active": false
+}

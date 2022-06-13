@@ -1,0 +1,14 @@
+{
+  "id": "86",
+  "name": "Wide Grip Lat Pulldown",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Intermediate",
+  "slug": "wide-grip-lat-pulldown",
+  "active": false
+}

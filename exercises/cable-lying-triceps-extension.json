@@ -1,0 +1,14 @@
+{
+  "id": "226",
+  "name": "Cable Lying Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "cable-lying-triceps-extension",
+  "active": false
+}

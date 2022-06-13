@@ -1,0 +1,14 @@
+{
+  "id": "105",
+  "name": "Barbell Spider Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "difficulty": "Intermediate",
+  "exerciseTable": "105",
+  "slug": "barbell-spider-curl",
+  "active": false
+}

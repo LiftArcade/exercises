@@ -1,0 +1,14 @@
+{
+  "id": "84",
+  "name": "Wide Grip Pulldown Behind The Neck",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Intermediate",
+  "slug": "wide-grip-pulldown-behind-the-neck",
+  "active": false
+}

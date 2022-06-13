@@ -1,0 +1,14 @@
+{
+  "id": "71",
+  "name": "Tuck Crunch",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Core",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Body",
+  "difficulty": "Beginner",
+  "slug": "tuck-crunch",
+  "active": false
+}

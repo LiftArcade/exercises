@@ -1,0 +1,13 @@
+{
+  "id": "74",
+  "name": "Weight Plate Twist",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Core",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "difficulty": "Intermediate",
+  "slug": "weight-plate-twist",
+  "active": false
+}

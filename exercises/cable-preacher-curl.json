@@ -1,0 +1,14 @@
+{
+  "id": "256",
+  "name": "Cable Preacher Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "cable-preacher-curl",
+  "active": false
+}

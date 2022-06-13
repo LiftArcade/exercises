@@ -1,0 +1,15 @@
+{
+  "id": "7",
+  "name": "Good Morning",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "7",
+  "slug": "good-morning",
+  "active": false
+}

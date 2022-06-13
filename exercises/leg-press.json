@@ -1,0 +1,15 @@
+{
+  "id": "132",
+  "name": "Leg Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "60c9fc54-afe8-4165-b534-762a6f1fbc75",
+  "slug": "leg-press",
+  "active": false
+}

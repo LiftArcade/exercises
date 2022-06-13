@@ -1,0 +1,14 @@
+{
+  "id": "39",
+  "name": "Dumbbell Decline Bench Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-decline-bench-press",
+  "active": false
+}

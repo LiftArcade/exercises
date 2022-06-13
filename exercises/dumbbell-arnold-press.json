@@ -1,0 +1,15 @@
+{
+  "id": "25",
+  "name": "Dumbbell Arnold Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "exerciseTable": "25",
+  "slug": "dumbbell-arnold-press",
+  "active": false
+}

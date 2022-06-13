@@ -1,0 +1,14 @@
+{
+  "id": "152",
+  "name": "EZ Bar Decline Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "EZ Curl Bar",
+  "difficulty": "Intermediate",
+  "slug": "ez-bar-decline-triceps-extension",
+  "active": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "40",
+  "name": "Dumbbell Decline Fly",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-decline-fly",
+  "active": false
+}

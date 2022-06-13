@@ -1,0 +1,15 @@
+{
+  "id": "15",
+  "name": "Cable Flat Bench Fly",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "15",
+  "slug": "cable-flat-bench-fly",
+  "active": false
+}

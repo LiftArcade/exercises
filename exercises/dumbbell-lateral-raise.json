@@ -1,0 +1,15 @@
+{
+  "id": "32",
+  "name": "Dumbbell Lateral Raise",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "d6d2de12-1425-4fef-ab44-7c2b50bbcba8",
+  "slug": "dumbbell-lateral-raise",
+  "active": false
+}

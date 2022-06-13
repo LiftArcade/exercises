@@ -1,0 +1,14 @@
+{
+  "id": "277",
+  "name": "Dumbbell One Arm Zottman Preacher Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-one-arm-zottman-preacher-curl",
+  "active": false
+}

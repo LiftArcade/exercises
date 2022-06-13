@@ -1,0 +1,14 @@
+{
+  "id": "180",
+  "name": "Barbell Body Row",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "slug": "barbell-body-row",
+  "active": false
+}

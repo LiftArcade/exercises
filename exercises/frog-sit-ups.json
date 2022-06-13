@@ -1,0 +1,14 @@
+{
+  "id": "69",
+  "name": "Frog Sit Ups",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Core",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Body",
+  "difficulty": "Intermediate",
+  "slug": "frog-sit-ups",
+  "active": false
+}

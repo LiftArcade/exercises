@@ -1,0 +1,14 @@
+{
+  "id": "261",
+  "name": "Cable Lying Bicep Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "cable-lying-bicep-curl",
+  "active": false
+}

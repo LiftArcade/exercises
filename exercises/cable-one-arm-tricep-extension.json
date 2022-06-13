@@ -1,0 +1,14 @@
+{
+  "id": "225",
+  "name": "Cable One Arm Tricep Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "cable-one-arm-tricep-extension",
+  "active": false
+}

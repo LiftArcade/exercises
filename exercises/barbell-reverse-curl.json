@@ -1,0 +1,15 @@
+{
+  "id": "111",
+  "name": "Barbell Reverse Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Forearms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "111",
+  "slug": "barbell-reverse-curl",
+  "active": false
+}

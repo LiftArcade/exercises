@@ -1,0 +1,14 @@
+{
+  "id": "240",
+  "name": "Close Triceps Pushup",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Body",
+  "difficulty": "Intermediate",
+  "slug": "close-triceps-pushup",
+  "active": false
+}

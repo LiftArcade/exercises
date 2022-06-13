@@ -1,0 +1,15 @@
+{
+  "id": "200",
+  "name": "Cable Standing Leg Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "200",
+  "slug": "cable-standing-leg-curl",
+  "active": false
+}

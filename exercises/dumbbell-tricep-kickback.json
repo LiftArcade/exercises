@@ -1,0 +1,15 @@
+{
+  "id": "154",
+  "name": "Dumbbell Tricep Kickback",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "154",
+  "slug": "dumbbell-tricep-kickback",
+  "active": false
+}

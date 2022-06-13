@@ -1,0 +1,15 @@
+{
+  "id": "137",
+  "name": "Barbell Front Squat",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "exerciseTable": "bc262558-bf51-46fc-b2fd-3461009ac6b6",
+  "slug": "barbell-front-squat",
+  "active": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "136",
+  "name": "Dumbbell Lunges",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "3e05e6b8-6fdc-413f-bdd7-367d7ce0deff",
+  "slug": "dumbbell-lunges",
+  "active": false
+}

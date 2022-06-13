@@ -1,0 +1,14 @@
+{
+  "id": "98",
+  "name": "Dumbbell Cross Body Hammer Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-cross-body-hammer-curl",
+  "active": false
+}

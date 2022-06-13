@@ -1,0 +1,15 @@
+{
+  "id": "130",
+  "name": "Leg Extensions",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "0c32ca46-cecf-49c9-8290-6a5053c4c863",
+  "slug": "leg-extensions",
+  "active": false
+}

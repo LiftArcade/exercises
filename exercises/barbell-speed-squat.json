@@ -1,0 +1,14 @@
+{
+  "id": "214",
+  "name": "Barbell Speed Squat",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "slug": "barbell-speed-squat",
+  "active": false
+}

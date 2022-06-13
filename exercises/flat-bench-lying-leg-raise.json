@@ -1,0 +1,13 @@
+{
+  "id": "73",
+  "name": "Flat Bench Lying Leg Raise",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Core",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "difficulty": "Beginner",
+  "slug": "flat-bench-lying-leg-raise",
+  "active": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "107",
+  "name": "Dumbbell Concentration Curls",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "107",
+  "slug": "dumbbell-concentration-curls",
+  "active": false
+}

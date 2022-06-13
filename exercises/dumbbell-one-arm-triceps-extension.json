@@ -1,0 +1,14 @@
+{
+  "id": "230",
+  "name": "Dumbbell One Arm Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-one-arm-triceps-extension",
+  "active": false
+}

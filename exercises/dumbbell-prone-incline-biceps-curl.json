@@ -1,0 +1,14 @@
+{
+  "id": "266",
+  "name": "Dumbbell Prone Incline Biceps Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-prone-incline-biceps-curl",
+  "active": false
+}

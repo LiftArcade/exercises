@@ -1,0 +1,15 @@
+{
+  "id": "100",
+  "name": "Dumbbell Bicep Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "b34de1b8-f75f-4a2f-807f-a5b1d2b08642",
+  "slug": "dumbbell-bicep-curl",
+  "active": false
+}

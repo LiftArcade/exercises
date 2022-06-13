@@ -1,0 +1,14 @@
+{
+  "id": "235",
+  "name": "Dumbbell Lying Across Face Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-lying-across-face-triceps-extension",
+  "active": false
+}

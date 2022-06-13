@@ -1,0 +1,14 @@
+{
+  "id": "36",
+  "name": "Dumbbell One Arm Up Right Row",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-one-arm-up-right-row",
+  "active": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "33",
+  "name": "Dumbbell Lying One Arm Lateral Raise",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-lying-one-arm-lateral-raise",
+  "active": false
+}

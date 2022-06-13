@@ -1,0 +1,14 @@
+{
+  "id": "181",
+  "name": "Gironda Sternum Chin Ups",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Pullup Bar",
+  "difficulty": "Intermediate",
+  "slug": "gironda-sternum-chin-ups",
+  "active": false
+}

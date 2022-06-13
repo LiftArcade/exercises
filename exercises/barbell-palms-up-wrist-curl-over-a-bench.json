@@ -1,0 +1,14 @@
+{
+  "id": "125",
+  "name": "Barbell Palms Up Wrist Curl Over A Bench",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Forearms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "barbell-palms-up-wrist-curl-over-a-bench",
+  "active": false
+}

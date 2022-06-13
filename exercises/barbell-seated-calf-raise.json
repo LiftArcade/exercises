@@ -1,0 +1,14 @@
+{
+  "id": "139",
+  "name": "Barbell Seated Calf Raise",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Legs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "barbell-seated-calf-raise",
+  "active": false
+}

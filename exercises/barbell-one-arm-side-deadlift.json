@@ -1,0 +1,14 @@
+{
+  "id": "212",
+  "name": "Barbell One Arm Side Deadlift",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "slug": "barbell-one-arm-side-deadlift",
+  "active": false
+}

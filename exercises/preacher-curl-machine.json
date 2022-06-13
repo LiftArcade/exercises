@@ -1,0 +1,14 @@
+{
+  "id": "271",
+  "name": "Preacher Curl Machine",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "preacher-curl-machine",
+  "active": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "134",
+  "name": "Dumbbell Step Ups",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-step-ups",
+  "active": false
+}

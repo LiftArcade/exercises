@@ -1,0 +1,14 @@
+{
+  "id": "119",
+  "name": "Barbell Seated Palms Up Wrist Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Forearms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "barbell-seated-palms-up-wrist-curl",
+  "active": false
+}

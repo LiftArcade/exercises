@@ -1,0 +1,14 @@
+{
+  "id": "221",
+  "name": "EZ Bar Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "EZ Curl Bar",
+  "difficulty": "Intermediate",
+  "slug": "ez-bar-triceps-extension",
+  "active": false
+}

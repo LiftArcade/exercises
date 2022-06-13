@@ -1,0 +1,14 @@
+{
+  "id": "259",
+  "name": "Barbell Lying High Bench Biceps Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "barbell-lying-high-bench-biceps-curl",
+  "active": false
+}

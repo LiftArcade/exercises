@@ -1,0 +1,14 @@
+{
+  "id": "279",
+  "name": "Barbell One Arm Bicep Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "slug": "barbell-one-arm-bicep-curl",
+  "active": false
+}

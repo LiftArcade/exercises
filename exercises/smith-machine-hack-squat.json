@@ -1,0 +1,14 @@
+{
+  "id": "203",
+  "name": "Smith Machine Hack Squat",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "smith-machine-hack-squat",
+  "active": false
+}

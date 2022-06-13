@@ -1,0 +1,15 @@
+{
+  "id": "193",
+  "name": "Dumbbell Deadlift",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "193",
+  "slug": "dumbbell-deadlift",
+  "active": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "246",
+  "name": "Cable Standing One Arm Low Pulley Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Intermediate",
+  "slug": "cable-standing-one-arm-low-pulley-triceps-extension",
+  "active": false
+}

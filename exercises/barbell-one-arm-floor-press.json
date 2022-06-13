@@ -1,0 +1,14 @@
+{
+  "id": "167",
+  "name": "Barbell One Arm Floor Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "slug": "barbell-one-arm-floor-press",
+  "active": false
+}

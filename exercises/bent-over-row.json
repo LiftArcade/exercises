@@ -1,0 +1,17 @@
+{
+  "id": "3",
+  "name": "Bent Over Row",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [
+    "Arms"
+  ],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Beginner",
+  "exerciseTable": "11fb0e6a-61e0-414e-96f1-ab5054d7cb91",
+  "slug": "bent-over-row",
+  "active": true
+}

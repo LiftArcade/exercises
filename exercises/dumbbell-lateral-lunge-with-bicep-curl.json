@@ -1,0 +1,14 @@
+{
+  "id": "280",
+  "name": "Dumbbell Lateral Lunge with Bicep Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-lateral-lunge-with-bicep-curl",
+  "active": false
+}

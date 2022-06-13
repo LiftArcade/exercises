@@ -1,0 +1,15 @@
+{
+  "id": "219",
+  "name": "Barbell Zercher Squat",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "exerciseTable": "219",
+  "slug": "barbell-zercher-squat",
+  "active": false
+}

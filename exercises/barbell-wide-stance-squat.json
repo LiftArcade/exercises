@@ -1,0 +1,14 @@
+{
+  "id": "218",
+  "name": "Barbell Wide Stance Squat",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "slug": "barbell-wide-stance-squat",
+  "active": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "67",
+  "name": "Barbell Press Sit Up",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Core",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Elite",
+  "slug": "barbell-press-sit-up",
+  "active": false
+}

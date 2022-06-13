@@ -1,0 +1,14 @@
+{
+  "id": "196",
+  "name": "One Leg Kickback",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Glutes",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Body",
+  "difficulty": "Intermediate",
+  "slug": "one-leg-kickback",
+  "active": false
+}

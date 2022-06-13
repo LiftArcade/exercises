@@ -1,0 +1,15 @@
+{
+  "id": "183",
+  "name": "Cable Straight Arm Push Down",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "183",
+  "slug": "cable-straight-arm-push-down",
+  "active": false
+}

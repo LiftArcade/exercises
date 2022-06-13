@@ -1,0 +1,14 @@
+{
+  "id": "272",
+  "name": "Dumbbell Lying Supine Biceps Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-lying-supine-biceps-curl",
+  "active": false
+}

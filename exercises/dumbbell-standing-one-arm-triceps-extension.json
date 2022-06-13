@@ -1,0 +1,14 @@
+{
+  "id": "245",
+  "name": "Dumbbell Standing One Arm Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-standing-one-arm-triceps-extension",
+  "active": false
+}

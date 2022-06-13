@@ -1,0 +1,13 @@
+{
+  "id": "120",
+  "name": "Wrist Roller",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Forearms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "difficulty": "Beginner",
+  "slug": "wrist-roller",
+  "active": false
+}

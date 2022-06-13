@@ -1,0 +1,14 @@
+{
+  "id": "231",
+  "name": "EZ Bar Lying Close Grip Behind the Head Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "EZ Curl Bar",
+  "difficulty": "Intermediate",
+  "slug": "ez-bar-lying-close-grip-behind-the-head-triceps-extension",
+  "active": false
+}

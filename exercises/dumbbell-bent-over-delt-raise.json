@@ -1,0 +1,14 @@
+{
+  "id": "27",
+  "name": "Dumbbell Bent Over Delt Raise",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Beginner",
+  "slug": "dumbbell-bent-over-delt-raise",
+  "active": false
+}

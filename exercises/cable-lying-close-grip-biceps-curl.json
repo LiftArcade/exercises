@@ -1,0 +1,14 @@
+{
+  "id": "260",
+  "name": "Cable Lying Close Grip Biceps Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "cable-lying-close-grip-biceps-curl",
+  "active": false
+}

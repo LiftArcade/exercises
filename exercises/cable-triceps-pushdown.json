@@ -1,0 +1,15 @@
+{
+  "id": "250",
+  "name": "Cable Triceps Pushdown",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "250",
+  "slug": "cable-triceps-pushdown",
+  "active": false
+}

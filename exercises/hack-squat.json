@@ -1,0 +1,15 @@
+{
+  "id": "127",
+  "name": "Hack Squat",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "9f900262-ae1b-4758-b3d4-cb303124c8aa",
+  "slug": "hack-squat",
+  "active": false
+}

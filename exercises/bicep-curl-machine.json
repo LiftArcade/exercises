@@ -1,0 +1,15 @@
+{
+  "id": "278",
+  "name": "Bicep Curl Machine",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "278",
+  "slug": "bicep-curl-machine",
+  "active": false
+}

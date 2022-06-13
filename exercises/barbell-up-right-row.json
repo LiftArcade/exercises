@@ -1,0 +1,14 @@
+{
+  "id": "13",
+  "name": "Barbell Up Right Row",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Barbell",
+  "difficulty": "Intermediate",
+  "slug": "barbell-up-right-row",
+  "active": false
+}

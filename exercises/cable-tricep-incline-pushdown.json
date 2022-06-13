@@ -1,0 +1,14 @@
+{
+  "id": "228",
+  "name": "Cable Tricep Incline Pushdown",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Intermediate",
+  "slug": "cable-tricep-incline-pushdown",
+  "active": false
+}

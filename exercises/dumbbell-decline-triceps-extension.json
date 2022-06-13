@@ -1,0 +1,14 @@
+{
+  "id": "222",
+  "name": "Dumbbell Decline Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "dumbbell-decline-triceps-extension",
+  "active": false
+}

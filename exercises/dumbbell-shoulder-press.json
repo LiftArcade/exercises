@@ -1,0 +1,15 @@
+{
+  "id": "48",
+  "name": "Dumbbell Shoulder Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Shoulders",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "exerciseTable": "1c367eea-8ece-4fd3-9369-6bca101ee674",
+  "slug": "dumbbell-shoulder-press",
+  "active": false
+}

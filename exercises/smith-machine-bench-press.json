@@ -1,0 +1,15 @@
+{
+  "id": "174",
+  "name": "Smith Machine Bench Press",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "exerciseTable": "174",
+  "slug": "smith-machine-bench-press",
+  "active": false
+}

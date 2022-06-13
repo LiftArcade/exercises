@@ -1,0 +1,14 @@
+{
+  "id": "95",
+  "name": "EZ Bar Curl",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "difficulty": "Beginner",
+  "exerciseTable": "e390d621-b87f-4bbf-81e7-ef0681d75bdb",
+  "slug": "ez-bar-curl",
+  "active": false
+}

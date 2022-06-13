@@ -1,0 +1,14 @@
+{
+  "id": "133",
+  "name": "Barbell Step Ups",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "slug": "barbell-step-ups",
+  "active": false
+}

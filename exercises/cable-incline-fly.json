@@ -1,0 +1,14 @@
+{
+  "id": "17",
+  "name": "Cable Incline Fly",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Chest",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "cable-incline-fly",
+  "active": false
+}

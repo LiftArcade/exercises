@@ -1,0 +1,15 @@
+{
+  "id": "55",
+  "name": "Barbell Lying Triceps Extension",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Arms",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Dumbbell",
+  "difficulty": "Intermediate",
+  "exerciseTable": "55",
+  "slug": "barbell-lying-triceps-extension",
+  "active": false
+}

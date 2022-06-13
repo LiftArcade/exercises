@@ -1,0 +1,14 @@
+{
+  "id": "76",
+  "name": "Toe Touchers",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Core",
+  "otherMuscleGroups": [],
+  "type": "Stretching",
+  "equipment": "Body",
+  "difficulty": "Beginner",
+  "slug": "toe-touchers",
+  "active": false
+}

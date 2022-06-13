@@ -1,0 +1,14 @@
+{
+  "id": "78",
+  "name": "Decline Crunch",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Core",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Intermediate",
+  "slug": "decline-crunch",
+  "active": false
+}

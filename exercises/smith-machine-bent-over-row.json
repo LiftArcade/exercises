@@ -1,0 +1,14 @@
+{
+  "id": "91",
+  "name": "Smith Machine Bent Over Row",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Back",
+  "otherMuscleGroups": [],
+  "type": "Strength",
+  "equipment": "Machine",
+  "difficulty": "Beginner",
+  "slug": "smith-machine-bent-over-row",
+  "active": false
+}

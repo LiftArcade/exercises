@@ -1,0 +1,15 @@
+{
+  "id": "138",
+  "name": "Barbell Overhead Squat",
+  "allowedMethods": [
+    "sri"
+  ],
+  "mainMuscleGroup": "Thighs",
+  "otherMuscleGroups": [],
+  "type": "Olympic Weight Lifting",
+  "equipment": "Barbell",
+  "difficulty": "Elite",
+  "exerciseTable": "bec1aa68-be2c-4d94-9233-373c36787953",
+  "slug": "barbell-overhead-squat",
+  "active": false
+}
