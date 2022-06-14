@@ -18,6 +18,7 @@
   "homepage": "https://github.com/LiftArcade/exercises#readme",
   "dependencies": {
     "@types/lodash": "^4.14.182",
+    "jest": "^28.1.1",
     "lodash": "^4.17.21",
     "ts-jest": "^28.0.4",
     "ts-node": "^10.8.1"
